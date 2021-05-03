@@ -7,6 +7,7 @@
 int main()
 {
 	printf("hello");
+	printf("lucky");
     return 0;
 }
 
